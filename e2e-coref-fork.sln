@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "e2e-coref-fork", "e2e-coref-fork\e2e-coref-fork.pyproj", "{036988B6-2946-407B-B861-73F4A73A1D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036988B6-2946-407B-B861-73F4A73A1D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036988B6-2946-407B-B861-73F4A73A1D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4442AB5B-BF68-44B6-BF10-1C7898BACFC5}
+	EndGlobalSection
+EndGlobal
